@@ -13,7 +13,6 @@ idna==2.8
 pefile==2019.4.18
 psycopg2==2.8.4
 py-telegram-bot==1.0.post3
-PyAudio==0.2.11
 PyInstaller==3.5
 pyowm==2.10.0
 PySocks==1.7.0
